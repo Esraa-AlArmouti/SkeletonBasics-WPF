@@ -539,4 +539,5 @@ namespace Microsoft.Samples.Kinect.SkeletonBasics
     }
 
 }
+//hello there :P
 
